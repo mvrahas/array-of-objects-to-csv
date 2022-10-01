@@ -2,7 +2,7 @@
 
 ## About
 
-A command line tool to convert an json file (array of objects) to a CSV file. I created it so that I could easily analyzelarge amounds of json data using Google Sheets and Microsoft Excel
+A command line tool to convert an json file (array of objects) to a CSV file. I created it so that I could easily analyze large amounds of json data using Google Sheets and Microsoft Excel
 
 ## Run the Project
 
