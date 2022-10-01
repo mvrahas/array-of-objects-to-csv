@@ -1,10 +1,6 @@
 const yargs = require('yargs')
 const converter = require('./converter.js')
 
-
-
-
-
 yargs.command({
     command: 'convert',
     describe: 'Convert the file from array of objects to csv',
